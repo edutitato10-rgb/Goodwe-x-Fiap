@@ -272,7 +272,7 @@ Impacto esperado: melhor distribuição da demanda ao longo do dia, suporte à d
 
 ## Diagrama de Arquitetura
 
-> *Diagrama a ser inserido como imagem após conclusão da Frente 3.*
+> ![Diagrama de Arquitetura EV ChargeOps](assets/Arquitetura.png)
 
 ---
 
